@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Subhankit
 
-<!--
-**Subhankit-R/Subhankit-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Programmer
+⚡ Turning logic into code, one problem at a time
 
-Here are some ideas to get you started:
+🧠 Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C
+* C++
+* Python
+
+📌 What I'm focused on:
+
+* Strengthening problem-solving skills (DSA)
+* Writing clean and efficient code
+* Building small but meaningful projects
+
+🛠️ Tools I use:
+
+* VS Code
+* Git & GitHub
+
+🎯 Goals:
+
+* Crack top tech internships
+* Become a strong software engineer
+* Build real-world impactful applications
+
+📈 Motto:
+"Consistency over intensity."
+
+📫 Let's connect:
+
+* LinkedIn: www.linkedin.com/in/subhankit-ranjan-9b8456374
+* Email: subhankit.ranjan.06@gmail.com
